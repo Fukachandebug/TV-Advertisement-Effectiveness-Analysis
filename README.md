@@ -1,6 +1,6 @@
 ## 📺 TV Advertising Placement Optimization
-This is a project when I joined [Marketing Analysis Competition hosted by Nomura Research Institute](https://www.is.nri.co.jp/contest/2021/report.html) whose goal is to propose advertising marketing strategy based on insights through data analysis from a diverse perspevtive.
-In this competition, I was awareded as a **Top Finalist** out of 110+ teams.
+This is a project when I joined [2020&2021 Marketing Analysis Competition hosted by Nomura Research Institute](https://www.is.nri.co.jp/contest/2021/report.html) whose goal is to propose advertising marketing strategy based on insights through data analysis from a diverse perspevtive.
+In this competition, I was awareded as a **Top Finalist** out of 110+ teams for 2 consecutive years.
 
 ### 🎯 Objective
 In this project, I developed an optimized TV advertising placement strategy.
