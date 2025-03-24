@@ -1,5 +1,5 @@
 ## 📺 TV Advertising Placement Optimization
-This is a project when I joined Marketing Analysis Competition hosted by Nomura Research Institute whose goal is to propose advertising marketing strategy based on insights through data analysis from a diverse perspevtive.
+This is a project when I joined [Marketing Analysis Competition hosted by Nomura Research Institute](https://www.is.nri.co.jp/contest/2021/report.html) whose goal is to propose advertising marketing strategy based on insights through data analysis from a diverse perspevtive.
 In this competition, I was awareded as a **Top Finalist** out of 110+ teams.
 
 ### 🎯 Objective
@@ -18,13 +18,13 @@ The following metrics includes:
 This tells whether a person viewed TV show during the survey period.
 - TV ad placement data
 
-### Data Processing
+### ⚙️ Data Processing & Aggregation
 
-### Data Aggregation
-
-### Analysis
+### 📊 Analysis
 #### Step1: Analysis of optimal ad viewing frequency
 
 #### Step2: Analysis of optimal ad viewing frequency and content features
 
 #### Step3: Optimization of advertising placement
+
+### 💡 Insight from Analysis
