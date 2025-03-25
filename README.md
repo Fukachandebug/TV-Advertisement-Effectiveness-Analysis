@@ -9,8 +9,9 @@ In this project, I developed an optimized TV advertising placement strategy.
 2) Determine the relationship between the optimal viewing frequency and ad content features.
 3) Develop the standards of ad placement based on the results of 1) and 2).
 
-Definition of Optimal ad viewing frequency:  
-The lower the viewing frequency is, the effectiveness of ad appears quickly. In this case, ad cost can be mitigrated.
+Definition of optimal ad viewing frequency:  
+This is equal to the maximum of the ad effectiveness.  
+The lower the optimal ad viewing frequency is, the more quickly the effectiveness of ad appears.
 
 ### 📁 Dataset Used
 Data is provided by Nomura Research Institute, so it cannot be opened in public.
@@ -22,9 +23,10 @@ Data is provided by Nomura Research Institute, so it cannot be opened in public.
   - Information on the broadcasting schedule of TV commercials by program.
 
 ### ⚙️ Data Processing & Aggregation
-I aggreagated the percentage of purchase intention from survey responses and ad viewing frequency each products.  
-Below is the result of agreegation for a payment service which is called 'PayPay'.
--> Hypothesis: It is predicted that there might be optimal viewing frequency and it varies by products.
+Agreagated the percentage of purchase intention from survey responses and ad viewing frequency each products.  
+Below is one of the results.  
+When the viewing frequency is 6-10 times, purchase intent is the highest. But after 10 times viewing, purchase intent is not increased.  
+-> Hypothesis: It is estimated that the effectiveness of ad may differ by viewing frequency.
 
 ### 📊 Analysis
 #### Step1: Analysis of optimal ad viewing frequency
