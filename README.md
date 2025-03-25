@@ -36,15 +36,16 @@ Used **generalized propensity score analysis** to estimate the optimal ad viewin
 Applied **multiple correspondence analysis** to determine the relationship between ad features (e.g., featured actors, narration, BGM) and optimal viewing frequency.
 
 #### Step3: Optimization of advertising placement
-Utilized **linear programming** to determine the number of placements per time slot based on different target audiences.
+Utilized **linear programming** to determine the number of placements per time slot based on different target audiences while meeting optimal viewing frequency.
 
 ### 💡 Analysis Results & Insights
 #### Step1: Optimal ad viewing frequency varies by products
 The result of analysis shows the optimal viewing frequency differs depending on products as implied in the result of data aggregation.
 
-#### Step2: Optimal ad viewing frequency is related to ad features.
-Interestingly, the ad features for 1-3 times of optimal viewing frequency 
+#### Step2: Optimal ad viewing frequency varies by ad features
+Interestingly, it is turned out that the ad features include featured actors/actoress, creative BGM with lyrics of company's and product's name when the optimal viewing frequency is the lowest like 1-3 times. This implies that the ad whose effectiveness appears the most quickly tends to have the impactful and visual features.  
+On the contrary, it is found that ad features don't tend to have creative BGM when the optimal viewing frequency is the highest like more than 10 times. This implies that the effectiveness of ad appears the latest because the lack of impactful audio makes people less attention to ad and hard to imagine produtct itself. 
 
-
+#### Step3: Cost effectiveness ad placement for each target audience
 
 
