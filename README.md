@@ -1,6 +1,6 @@
 ## 📺 TV Advertising Placement Optimization
 This is a project when I joined [2020&2021 Marketing Analysis Competition](https://www.is.nri.co.jp/contest/2021/report.html) hosted by Nomura Research Institute whose goal is to propose advertising marketing strategy based on insights through data analysis from a diverse perspevtive.
-In this competition, I was awareded as a **Top Finalist** out of 110+ teams for 2 consecutive years.
+In this competition, I was awareded as a **Top Finalist** out of 110+ teams for **2 consecutive years**.
 
 ### 🎯 Objective
 In this project, I developed an optimized TV advertising placement strategy.
@@ -11,7 +11,7 @@ In this project, I developed an optimized TV advertising placement strategy.
 ### 📁 Dataset Used
 Data is provided by Nomura Research Institute, so it cannot be opened in public.
 - Survey data
-The following metrics includes:
+The following data includes:
   - 3,000 individual demographics
   - Purchase intention and behoviour each items or services before and after viewing TV ad    
 - TV show viewship data
@@ -26,6 +26,7 @@ Below is the result of agreegation for a payment service which is called 'PayPay
 
 ### 📊 Analysis
 #### Step1: Analysis of optimal ad viewing frequency
+I conducted generalized propensity score analysis to evaluate the optimal ad vewing frequency 
 
 #### Step2: Analysis of optimal ad viewing frequency and content features
 
