@@ -46,13 +46,13 @@ Utilized **linear programming** to determine the ideal number of placements per 
 The analysis confirmed that the optimal viewing frequency differs depending on products as implied in the result of data aggregation.
 
 #### **Step2: Ad features influence optimal viewing frequency**
-- Ads with lower optimal viewing frequency (1–3 times) tend to have:
-  ✅ Popular actors/actresses
-  ✅ Creative BGM with lyrics that include the company or product name
-   → These ads create a strong visual and auditory impact, making them effective more quickly.
-- Ads requiring higher optimal viewing frequency (10+ times) often lack:
-  ❌ Creative BGM
-   → Without strong auditory impact, these ads attract less attention, making it harder for consumers to recall the product.
+- Ads with lower optimal viewing frequency (1–3 times) tend to have:  
+  ✅ Popular actors/actresses  
+  ✅ Creative BGM with lyrics that include the company or product name  
+   → These ads create a strong visual and auditory impact, making them effective more quickly.  
+- Ads requiring higher optimal viewing frequency (10+ times) often lack:  
+  ❌ Creative BGM  
+   → Without strong auditory impact, these ads attract less attention, making it harder for consumers to recall the product.  
 
 #### **Step3: Cost effectiveness ad placement for each target audience**
 
