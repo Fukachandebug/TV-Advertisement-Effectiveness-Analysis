@@ -9,4 +9,5 @@ I was awarded as a **Top Finalist**🎖️ out of 110+ teams for **2 consecutive
 ![image](https://github.com/user-attachments/assets/18e776b2-3c86-4585-b23b-366a091d2cec)
 
 2020 competition:
-![image](https://github.com/user-attachments/assets/664ebc29-5cd9-494c-a875-f91cd7eddd95)
+![image](https://github.com/user-attachments/assets/6d681202-9a0b-4a39-a489-c83f2ef8cdbd)
+
